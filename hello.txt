@@ -3,5 +3,5 @@ hello my first git program learned from guigu.com  2binling
 hello my first git program learned from guigu.com  3binling@qq.com
 hello my first git program learned from guigu.com
 hello my first git program learned from guigu.com
-hello my first git program learned from guigu.com
 hello my first git program learned from guigu.com master text
+hello my first git program learned from guigu.com hot-fix test
