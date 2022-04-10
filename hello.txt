@@ -1,6 +1,6 @@
 
-hello my first git program learned from guigu.com  22222222222
-hello my first git program learned from guigu.com  33333333333
+hello my first git program learned from guigu.com  2binling
+hello my first git program learned from guigu.com  3binling@qq.com
 hello my first git program learned from guigu.com
 hello my first git program learned from guigu.com
 hello my first git program learned from guigu.com
